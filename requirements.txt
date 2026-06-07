@@ -1,0 +1,7 @@
+mysql-connector-python
+Pillow
+tkcalendar
+fpdf2
+matplotlib
+vaderSentiment
+scikit-learn
